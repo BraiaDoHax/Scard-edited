@@ -1,7 +1,7 @@
 //insira a chave de criptografia
 var ChaveCriptografia = '000000';
 
-var CaracMaximo = 0; // numero de caracteres permitidos | caso seja 0 ele fica sem limite
+var CaracMaximo = 0; // numero de caracteres permitidos | caso seja 0 ele fica sem limite || O CHAT DO HAXBALL PERMITE NO MÁXIMO 140 CARACTERES
 var adminPassword = 999; // senha de adm
 
 var TrocaDeChat = 2; // digite 1 para a sala "Futsal Para Todos"
