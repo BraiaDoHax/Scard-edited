@@ -1,8 +1,6 @@
 //insira a chave de criptografia
 var ChaveCriptografia = '000000';
 
-/* url dos webhooks*/
-
 var CaracMaximo = 0; // numero de caracteres permitidos | caso seja 0 ele fica sem limite
 var adminPassword = 785; // senha de adm
 
