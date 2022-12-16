@@ -1,7 +1,7 @@
 // Stats: "Auth" : '["0-Games", "1-Wins", "2-Draws", "3-Losses", "4-Winrate", "5-Goals", "6-Assists", "7-GK", "8-CS", "9-CS%", "10-Role", "11-Nick"]'
 
 
-var CaracMaximo = 0; // numero de caracteres permitidos | caso seja 0 ele fica sem limite
+var CaracMaximo = 0; // numero de caracteres permitidos | caso seja 0 ele fica sem limite || O NÚMERO MÁXIMO PERMITIDO PELO HAXBALL É 140
 var adminPassword = 000; // senha de adm
 
 var TrocaDeChat = 2;   // digite 1 para a sala "Futsal Para Todos"
