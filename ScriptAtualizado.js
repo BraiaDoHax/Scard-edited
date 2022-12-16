@@ -28,7 +28,7 @@ var listaban = ["3137372E33342E3232302E313030", //"PARA TODOS"ACEITA TRANS?
     "3138392E33372E38312E323238", //terremoto	
     " 3230312E38372E3132372E3931 ", //trovao
     "3137372E38312E37392E313937", //sem nome
-];
+]; 
 estilo = 'normal';
 const aviso = 0; // se botar 1 ele manda no discord quando abrir | 2 ele manda la e marca | 0 ele não manda
 const discord = "🔥Entra no discord: https://discord.gg/UjFtf5ymW6 🔥";
