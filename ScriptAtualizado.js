@@ -2,7 +2,7 @@
 var ChaveCriptografia = '000000';
 
 var CaracMaximo = 0; // numero de caracteres permitidos | caso seja 0 ele fica sem limite
-var adminPassword = 785; // senha de adm
+var adminPassword = 999; // senha de adm
 
 var TrocaDeChat = 2; // digite 1 para a sala "Futsal Para Todos"
 // digite 2 para a sala "brasileirao"
