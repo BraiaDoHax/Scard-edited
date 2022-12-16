@@ -31,7 +31,7 @@ var listaban = ["3137372E33342E3232302E313030", //"PARA TODOS"ACEITA TRANS?
 ];
 estilo = 'normal';
 const aviso = 0; // se botar 1 ele manda no discord quando abrir | 2 ele manda la e marca | 0 ele não manda
-const discord = "🔥Entra no discord: https://discord.gg/qqwAWxCwWb 🔥";
+const discord = "🔥Entra no discord: https://discord.gg/UjFtf5ymW6 🔥";
 const roomName = "⚽Brasileirão⚽";
 const botName = "TITE ARROMBADO";
 const maxPlayers = 15;
